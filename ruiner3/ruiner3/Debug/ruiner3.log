@@ -1,0 +1,3 @@
+﻿  ruiner3.cpp
+D:\prophesy\c+\ruiner3\ruiner3\ruiner3.cpp(22,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ruiner3.vcxproj -> D:\prophesy\c+\ruiner3\Debug\ruiner3.exe

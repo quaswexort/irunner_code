@@ -1,0 +1,3 @@
+﻿  ruiner4.cpp
+D:\prophesy\c+\ruiner4\ruiner4\ruiner4.cpp(10,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  ruiner4.vcxproj -> D:\prophesy\c+\ruiner4\Debug\ruiner4.exe
